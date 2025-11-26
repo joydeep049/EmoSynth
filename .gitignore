@@ -10,6 +10,3 @@ __pycache__/
 .env
 frontend/
 backend/app/__pycache__
-backend/app/cache.py
-backend/app/interpolation.py
-backend/app/state.py
