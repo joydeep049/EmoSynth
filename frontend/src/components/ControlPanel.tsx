@@ -1,3 +1,7 @@
+// Copyright (C) 2025 Joydeep Tripathy
+//
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 import type { Dispatch, SetStateAction } from 'react'
 
 import type { Mode, ReturnType, SynthesisConfig } from '../types'

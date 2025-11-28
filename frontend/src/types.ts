@@ -1,3 +1,7 @@
+// Copyright (C) 2025 Joydeep Tripathy
+//
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 export type Mode = 'lerp' | 'slerp'
 export type ReturnType = 'gif' | 'frames'
 

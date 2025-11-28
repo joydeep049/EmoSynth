@@ -1,3 +1,7 @@
+// Copyright (C) 2025 Joydeep Tripathy
+//
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 import type { HealthStatus, RandomEmojiResponse, SynthesisRequestPayload, SynthesisResponse } from './types'
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:8000'
