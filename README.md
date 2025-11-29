@@ -58,7 +58,7 @@ EmoSynth consists of three main components:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/joydeep049/EmoSynth.git
    cd EmoSynth
    ```
 
@@ -400,7 +400,7 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000
 
 ## License
 
-[Add your license here]
+This project is licensed under the GPL License - see the LICENSE file for details.
 
 ## Acknowledgments
 
