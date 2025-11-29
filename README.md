@@ -19,6 +19,8 @@ EmoSynth is an interactive web application that generates and interpolates emoji
 - **Real-time Synthesis**: Fast inference with model caching and optimized processing
 - **Interactive Web UI**: Modern React-based interface for easy exploration
 
+![Application](assets/frontend.png)
+
 ## Architecture
 
 EmoSynth consists of three main components:
